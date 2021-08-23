@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BIt shorts</string>
+    <string name="title">Master mobile app development with 71 hours of Android and iOS tutorials for $45</string>
+    <string name="author">XDA Commerce Team</string>
+    <string name="date"> April 26, 2021</string>
+    <string name="category">Technology</string>
+    <string name="search_view_hint">Search topics</string>
+    <string name="no_internet_connection">Check Network Connection</string>
+</resources>
